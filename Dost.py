@@ -412,11 +412,11 @@ S:::::::::::::::SS  .::::.  A:::::A                 A:::::A
 ─────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 \x1b[1;78m-------------------------
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••• 
-\x1b[1;90m[+] 𝗔𝗨𝗧𝗛𝗢𝗥     :   SULIEMAN & ARSUM     
+\x1b[1;90m[+] 𝗔𝗨𝗧𝗛𝗢𝗥     :   SULIEMAN & ARSUM
 \x1b[1;91m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞   :   SULIEMANABDULQAYYUM
 \x1b[1;92m[+] 𝗚𝗜𝗧𝗛𝗨𝗕      :   SULIEMAN-123
 \x1b[1;98m[+] FROM        :   PAKISTAN
-\x1b[1;93m[+] 𝗧𝗘𝗔𝗠        :   \33[1;42  DF-71 \33[0m
+\x1b[1;93m[+] 𝗧𝗘𝗔𝗠        :   \33[1;42  SUL-123 \33[0m
 \x1b[1;94m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡     :\x1b[1;97m  1.0.2    \x1b[1;97m          
 \033[1;80m•••••••••••••••••••••••••••••••••••••••••••••• 
 """
@@ -431,12 +431,12 @@ class Main:
                 print(logo)
                 print("")
                 print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -")
-                print("\033[1;37mNOTE : APPROVAL YOUTUBE CHANNEL SUBSCRIBE https://www.youtube.com/@S...A...newvediochannal4394")
+                print("\033[1;37mNOTE : APPROVAL YOUTUBE CHANNEL SUBSCRIBE https://www.youtube.com/@s.q357")
                 print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ")
 
 
                 print("")
-                print("\033[1;37m [1] First subscribers YouTube channel  ")
+                print("\033[1;37m [1] First subscribers My YouTube channel  ")
                 print("\033[1;37m [2] EXIT")
                 print("")
                 Baloch = input("\n\033[1;37m  Choose : \033[1;32m")
@@ -454,7 +454,7 @@ class Main:
                         input("\n\033[1;37m TYPE THE OWNER FACEBOOK ACCOUNT NAME \033[1;37m")
                         time.sleep(3.1)
                         print("")
-                        print("\033[1;32m WELCOME TO *S.A CLONING CHANNEL*  TOOLS")
+                        print("\033[1;32m WELCOME TO *𝐒.𝐀 CLONING CHANNEL*  TOOLS")
                         time.sleep(3.0)
                         os.system("clear")
                 print(logo)
@@ -472,7 +472,7 @@ class Main:
                 if SULIEMAN in ["2", "02"]:
                         Public()
                 if SULIEMAN in ["3", "03"]:
-                        os.system("python2 S.A.py")
+                        os.system("python2 Dost.py")
                 if SULIEMAN in ["4", "04"]:
                         self.old()
                 if SULIEMAN in ["5", "05"]:
